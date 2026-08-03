@@ -7,5 +7,5 @@ My Python learning journey following the 100 Days of Code challenge.
 
 ## Projects
 
-Day 1 - Band Name Generator
+Day 1 - Band Name Generator\n
 Day 2 - Tip Calculator
