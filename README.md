@@ -10,3 +10,5 @@ My Python learning journey following the 100 Days of Code challenge.
 Day 1 - Band Name Generator
 
 Day 2 - Tip Calculator
+
+Day 3a - Pizza Bill Calculator
