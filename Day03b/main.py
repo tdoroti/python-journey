@@ -28,7 +28,7 @@ if choice1 == "left":
                   "You burn to death.\n"
                   "Game Over")
         elif choice3 == "yellow":
-            print("You win!")
+            print("You find the treasure. You win!")
         elif choice3 == "blue":
             print("You open the door and a giant grabs you and eats you.\n"
                   "Game Over")
